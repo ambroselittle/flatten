@@ -1,0 +1,1 @@
+This is just a simple demo of a flattener. Clone it and run `npm i && npm test`.

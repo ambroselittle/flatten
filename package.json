@@ -2,7 +2,6 @@
   "name": "flatten",
   "version": "1.0.0",
   "description": "Simple example of flattening solution.",
-  "main": "index.js",
   "scripts": {
     "test": "per-env",
     "test:development": "jest --watch",
@@ -10,6 +9,9 @@
   },
   "author": "J. Ambrose Little",
   "license": "MIT",
+  "engines": {
+    "node": "11.6.0"
+  },
   "devDependencies": {
     "@types/jest": "^23.3.12",
     "jest": "^23.6.0"
